@@ -1,4 +1,4 @@
 # project1-demo
 this is my first git repository.
 <br>
-author - Aishwarya jadhav
+author - Aishwarya jadhav(aishu)
